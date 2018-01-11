@@ -25,7 +25,7 @@ SECRET_KEY = '!3-=s&j)ob(0ircxs0+%@q53)xe(jkd$cv+y^!b=sxl^fxa-^z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://hitideas.herokuapp.com/']
 
 
 # Application definition
